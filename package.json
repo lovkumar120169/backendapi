@@ -1,0 +1,16 @@
+
+{
+  "name": "backendapi",
+  "version": "1.0.0",
+  "description": "backendapi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "luv",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
